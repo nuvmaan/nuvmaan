@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nuvmaan and I'm a Frontend Developer, from India</p>
+<p align="left">My name is Nuvmaan and I'm a Wannable Frontend Developer</p>
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning TypeScript</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning HTML, CSS & JS</p>
 
 ###
