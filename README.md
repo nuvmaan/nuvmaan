@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nuvmaan and I'm a Wannable Frontend Developer</p>
+<p align="left">My name is Nuvmaan and I'm a Frontend Developer</p>
 
 ###
 
