@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nuvmaan and I'm a Frontend Developer</p>
+<p align="left">My name is Nuvmaan and I'm a Graphic Designer and I also like to make static websites</p>
 
 ###
 
